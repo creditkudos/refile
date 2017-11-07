@@ -5,7 +5,8 @@ Gem::Specification.new do |spec|
   spec.version       = Refile::VERSION
   spec.authors       = ["Jonas Nicklas"]
   spec.email         = ["jonas.nicklas@gmail.com"]
-  spec.summary       = "Simple and powerful file upload library"
+  spec.summary       = "Simple and powerful file upload library."
+  spec.description   = "Forked by creditkudos for Rails 5 support before official gem release of 0.6.3"
   spec.homepage      = "https://github.com/refile/refile"
   spec.license       = "MIT"
 
